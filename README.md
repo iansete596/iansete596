@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iansete596
+- 👀 I’m interested in jenkins
+- 🌱 I’m currently learning jenkins
